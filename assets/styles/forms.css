@@ -1,0 +1,6 @@
+select {
+  appearance: none;
+  padding: 0.25rem 1rem 0.5rem 1rem;
+  width: fit-content;
+  border-radius: 16px;
+}
